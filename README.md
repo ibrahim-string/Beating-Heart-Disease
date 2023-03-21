@@ -1,2 +1,2 @@
-# medical_website
-This is to solve unsolvable problem in medial website
+# Heart-Disease-Prediction
+A project that predicts whether a person is suffering from heart disease or not.
